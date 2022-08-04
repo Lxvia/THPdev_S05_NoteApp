@@ -1,5 +1,3 @@
-<h2>View app</h2>
-GitPages : //
 <h2>Download</h2><br>
 git clone : <b>git@github.com:Lxvia/THPdev_S05_NoteApp</b>
 <br><br>
